@@ -1,1 +1,1 @@
-⚠️ most of my open source code is not hosted on GitHub, but on [Observable](https://observablehq.com/@mjbo). My full portfolio is available at [maxbo.me](https://maxbo.me/).
+⚠️ quite a bit of my open source code is hosted on [Observable](https://observablehq.com/@mjbo), not GitHub. My full portfolio is available at [maxbo.me](https://maxbo.me/).
